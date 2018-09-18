@@ -23,12 +23,12 @@ def preencher_matrizes(linha,coluna):
         matriz.append(elementos)
     return matriz
 
-print("Digite a ordem da matriz da primeira matriz")
+print("Digite a ordem da primeira matriz")
 print("Linhas:")
 Linhas_M1 = int(input())
 print("Colunas:")
 Colunas_M1 = int(input())
-print("Digite a ordem da matriz da segunda matriz")
+print("Digite a ordem da segunda matriz")
 print("Linhas:")
 Linhas_M2 = int(input())
 print("Colunas:")
